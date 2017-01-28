@@ -1,0 +1,12 @@
+﻿plum,18,orange,pear,orange,37,peach,42,15,mango,30,32,24,29,pineapple,23
+27,cherry,plum,plum,plum,mango,orange,orange,pineapple,45,grapes,28,36,banana,33
+50,11,42,plum,pineapple,mango,cherry,28,1,6,orange,16,cherry,orange,29,orange,apricot
+pear,melon,31,3,8,17,pineapple,grapes,34,orange,banana,plum,grapes,pineapple,melon,peach,32
+41,50,42,5,3,41,24
+pineapple,peach,48,mango,peach,apricot,orange,pineapple,8,grapes,9,melon,20,banana,31,7
+21,pineapple,14,26,orange,orange,30,apricot,21,15,40,20,banana,23,26,pineapple,29,17,32
+grapes,cherry,plum,plum,50,2,50,20,cherry,39,melon,40,46,37,4,pear
+banana,mango,grapes,pineapple,26,48,orange,pear,21,48,40,pineapple,18,12,pear,41
+5,5,grapes,banana,peach,45,18,apricot,11,melon,mango,6,pineapple,cherry,4,26,4,5
+orange,grapes,plum,plum,peach,mango,melon,mango
+0,45,5,15,28,1
