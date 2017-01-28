@@ -1,0 +1,43 @@
+﻿2000 and was not However, implemented 1998 it until;9 8 3 4 1 5 7 2
+programming first The language;3 2 1
+programs Manchester The written ran Mark 1952 1 in Autocode from;6 2 1 7 5 3 11 4 8 9
+of developed the the Ferranti Brooker the conjunction Mercury 1950s autocode with Manchester in an University also for in;18 3 7 16 8 1 11 14 9 12 5 15 19 13 4 17 2 6
+developed purpose was Fortran first became and in the mid language general The language at the programming '50s, high-level IBM widely used;5 20 4 3 15 13 12 8 14 10 2 19 1 22 6 9 21 11 18 7 16
+to programming to designed communicate in written the instructions The first a languages computer 1950s were;9 3 6 5 7 14 13 15 8 1 2 10 4 11 16
+automatically it into language machine to used convert a language, A the programming compiler code;9 4 13 12 14 8 5 10 6 3 1 11 2 7
+The the programming computer first instructions communicate written 1950s languages in a designed to were to;1 15 3 11 2 8 7 13 16 4 14 10 5 6 12
+period the at developed the during 1955 1959 UNIVAC was Remington Rand I for from until It;13 12 8 3 5 11 15 17 6 2 9 10 7 4 14 16
+COBOL, only were the and major its descendent it of use direct time at in was in a actual influence AIMACO Flow-Matic since the design;10 12 19 24 14 4 15 17 13 9 22 16 25 23 6 2 20 3 21 5 18 1 11 7
+Glennie 1950s Manchester, in early of the University developed Autocode the Alick At;7 13 5 10 12 4 11 3 8 9 2 6
+Alick developed the Autocode University Manchester, of Glennie At in early the 1950s;6 8 11 9 3 5 4 7 1 10 12 2
+in FLOW-MATIC the devised Hopper called programming Another by language early US, was Grace;10 14 11 6 9 13 3 1 7 4 2 12 5
+high-level language Fortran in the used became was first the general mid '50s, at developed IBM The language purpose widely programming and;18 2 3 8 14 17 13 4 15 9 19 10 11 6 5 7 1 22 20 16 21
+of University separate Atlas of but machine Autocode development, the Manchester A for Atlas contemporary developed was thread 1;15 14 4 8 6 3 19 9 7 13 16 1 12 17 2 11 10 5
+code, in expressions machine represented form Short Unlike mathematical Code statements understandable;3 10 9 2 7 12 4 1 8 5 6
+1959 It at until 1955 the was UNIVAC for from period Rand during the I Remington developed;17 1 8 16 15 5 2 6 4 14 13 10 11 12 7 9
+developed An for by a programming and high-level Plankalkul, was designed Zuse 1943 the to between language be early 1945 German Z3 computer for Konrad;14 1 15 19 10 4 24 3 13 12 8 21 23 16 6 22 5 7 2 25 17 18 11 9
+the The the second and called 1 in Mark 1 1954 was Brooker autocode for Autocode" "Mark by was developed;7 1 17 2 14 16 9 12 8 19 13 15 11 3 6 20 18 10 4
+automatically compiler to a language, into programming used language convert code the machine it A;9 7 8 6 3 13 2 5 12 10 15 11 14 4
+conjunction in University Ferranti developed Brooker 1950s Mercury an Manchester of in the also autocode with for the the;14 10 17 8 3 1 12 9 4 19 18 13 7 2 5 15 6 16
+machine developed Atlas but Atlas A development, separate Manchester was University for the 1 of Autocode of thread contemporary;19 11 17 3 8 1 7 4 16 10 14 12 13 18 15 9 6 5
+Code code, represented Unlike expressions in mathematical machine understandable form statements Short;5 3 7 1 9 10 8 2 11 12 6
+adapted source-language circumstances, Known and which optimisation code Autocode, and advanced straight EDSAC a the from local for for noted was was diagnostics 2 its as were Autocode time Mercury development object it for;14 27 17 1 18 29 25 24 5 26 31 9 3 8 33 11 16 15 21 20 7 19 28 4 22 2 30 13 34 12 10 23 6
+in The 1959 publicly 1958 available in became was substantially early FLOW-MATIC and compiler complete;7 1 15 5 9 6 14 4 11 12 8 2 10 3
+1 programs from The written ran Manchester in Autocode 1952 Mark;4 6 10 1 7 5 2 8 9 11
+University Autocode development, thread A for separate Atlas but contemporary of Atlas the Manchester 1 developed machine of was;14 9 7 5 1 12 4 8 3 2 6 17 13 16 18 11 19 15
+Alick developed the Autocode University Manchester, of Glennie At in early the 1950s;6 8 11 9 3 5 4 7 1 10 12 2
+developed the University Glennie of 1950s early Autocode the At Alick Manchester, in;8 11 3 7 4 13 12 9 2 1 6 5
+FLOW-MATIC and publicly complete became 1958 was in 1959 available compiler early The substantially in;2 10 5 13 4 9 11 14 15 6 3 8 1 12
+was EDSAC Cambridge The University by the of 2 version devised of Mathematical in for Hartley Laboratory 1961;7 5 14 1 12 9 4 11 6 2 8 13 15 17 3 10 16
+the equivalent machine into However, than had the it code machine making the slower code running program translated to ran, much time be every process;22 23 24 8 1 20 4 16 13 10 9 15 2 19 25 21 3 7 5 14 18 12 6 11
+in the at is first be the 1952 computer language first Mark for The University code programming and developed 1 considered and compiled Manchester of compiler to the high-level was;8 11 15 21 26 24 25 9 14 30 2 12 10 1 17 3 29 4 7 13 22 20 27 19 18 5 23 16 28
+form Unlike represented statements Code understandable code, mathematical machine in Short expressions;12 1 7 6 5 11 3 8 2 10 4
+was Hopper FLOW-MATIC by in the language called Grace programming Another devised early US,;5 9 14 7 10 11 4 13 8 3 1 6 2
+in US, Grace early Hopper devised programming language Another FLOW-MATIC called by was the;10 12 8 2 9 6 3 4 1 14 13 7 5
+running much the time making However, slower the equivalent had than translated machine code ran, the into machine to be program code process every it;21 18 22 12 15 1 19 2 23 4 20 7 24 10 14 16 8 9 5 6 3 25 17 11
+1952 ran from programs in 1 written Autocode The Manchester Mark;11 5 10 6 8 4 7 9 1 2
+of 1961 Hartley devised Mathematical The the in by University was of Laboratory Cambridge for 2 EDSAC version;13 18 10 8 15 1 4 17 9 12 7 11 16 14 3 6 5
+and was However, until 2000 implemented 1998 it not;8 3 1 6 9 5 7 2
+processing uncomfortable mathematical programming team and her customers business an 1955, Hopper data early a and found that specification in a and language prototype implemented wrote she for were English with notation,;6 9 11 27 20 29 19 7 4 25 16 1 5 15 31 18 2 3 23 14 22 13 28 32 30 21 17 24 8 26 10
+The 1959 substantially in and was available became publicly complete early FLOW-MATIC in 1958 compiler;1 15 12 7 10 11 6 4 5 13 8 2 14 9
+the developed The in and "Mark called by 1 was 1954 Mark for Autocode" the second was 1 Brooker autocode;7 5 1 12 14 18 16 10 9 15 13 8 6 20 17 2 4 19 11
